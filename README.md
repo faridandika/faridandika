@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Hi 👋, I'm Farid Andika "Fark" </h1>
 <h3 align="left">A Mobile Developer Student from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
