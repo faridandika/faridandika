@@ -15,13 +15,9 @@
 
 - 👋 I’m looking to collaborate project/porfolio with anyone.
 
-- 📫 How to reach me **faridandika159@gmail.com**
+- 😂 Fun fact **(1) I Just started my fitness & healty lifestyle since Ferbruary 2023**
 
-- 😂 Fun fact **(1) I'm Ex Esport Player & Caster for League of Legends : Wild Rift on CREUX Team in Indonesia**
-
-- 😂 Fun fact **(2) I Just started my fitness & healty lifestyle since Ferbruary 2023**
-
-- 🌝 Fun fact **(3) I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
+- 🌝 Fun fact **(2) I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
 
 - 👑  Serious fact **(3) I'm Following Brandon Carter and Andrew Tate in this Early 2023 and my entire life is getting better somehow.**
 
