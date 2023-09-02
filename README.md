@@ -6,7 +6,7 @@
 
 - 🔭 I’m a Mobile Development Student on **Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka 2023 Batch 2**
 - 🌟 I’m currently preparing myself for **Apple Developer Academy program at Cohort 2024  @IL-BATAM**
-- 🌱 I’m currently also learning **Java, Kotlin Multiplatform, & Python**
+- 🌱 I’m currently focus on **Java & Kotlin **
 - 😂 Fun fact **(1) I Just started my fitness & healty lifestyle since February 2023**
 - 🌝 Fun fact **(2) I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
 - 👑  Serious fact **(3) I'm Following Brandon Carter and Andrew Tate in this Early 2023 and my entire life is getting better somehow.**
