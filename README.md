@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Farid Andika "Fark" </h1>
+<h1 align="left">Hi 👋, I'm Farid Andika 'Fark' </h1>
 <h3 align="left">A Mobile Developer Student from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m a Mobile Development Student on **Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka 2023 Batch 2**
 - 🌟 I’m currently preparing myself for **Apple Developer Academy program at Cohort 2024  @IL-BATAM**
-- 🌱 I’m currently focus on **Java & Kotlin**
+- 🌱 **Fark** is a made up name refers to my full name and it's  my in-game name
 - 😂 Fun fact **(1) I Just started my fitness & healty lifestyle since February 2023**
 - 🌝 Fun fact **(2) I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
 - 👑  Other fact **(3) I'm Following Brandon Carter and Andrew Tate in this Early 2023 and my entire life is getting better somehow.**
