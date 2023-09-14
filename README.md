@@ -12,5 +12,5 @@
 - 👑  Other fact **(3) I'm Following Brandon Carter and Andrew Tate in this Early 2023 and my entire life is getting better somehow.**
 
 
-<h3 align="left">I Still Learning On This:</h3>
+<h3 align="left">Subfield focus:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
