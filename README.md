@@ -9,8 +9,6 @@
 - 🌱 **Fark** is a made up name refers to my full name and it's  my in-game name
 - 😂 Fun fact **(1) I Just started my fitness & healty lifestyle since February 2023**
 - 🌝 Fun fact **(2) I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
-- 👑  Other fact **(3) I'm Following Brandon Carter and Andrew Tate in this Early 2023 and my entire life is getting better somehow.**
-
 
 <h3 align="left">Subfield focus:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
