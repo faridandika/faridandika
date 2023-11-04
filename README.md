@@ -5,10 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridandika&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🔭 I’m a Mobile Development Student on **Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka 2023 Batch 2**
-- 🌟 I’m currently preparing myself for **Apple Developer Academy program at Cohort 2024  @IL-BATAM**
-- 🌱 **Fark** is a made up name refers to my full name and it's  my in-game name
-- 😂 Fun fact **(1) I Just started my fitness & healty lifestyle since February 2023**
-- 🌝 Fun fact **(2) I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
+- 🌝 Fun fact ** I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
 
 <h3 align="left">Subfield focus:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
