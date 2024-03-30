@@ -1,3 +1,4 @@
+
 <h1 align="left">Hi 👋, I'm Farid Andika 'Fark' </h1>
 <h3 align="left">A Mobile Developer Student from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,6 +11,6 @@
 <h3 align="left">Subfield focus:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Swift_logo_with_text.svg/1200px-Swift_logo_with_text.svg.png" alt="swift" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Swift_logo.png" alt="swift" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1280px-Apple_logo_black.svg.png" alt="apple" width="40" height="40"/>
 </p>
