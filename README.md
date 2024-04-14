@@ -7,7 +7,7 @@
 - 🌝 Fun fact **I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
 
 <h3 align="left">Technologies:</h3>
-
+ 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </a>
