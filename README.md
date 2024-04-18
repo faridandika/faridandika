@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridandika&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
+
 - 🔭 I’m a Learner at **Apple Developer Academy @ Infinite Learning, Batam Indonesia**
 - 🌝 Fun fact **I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
 
