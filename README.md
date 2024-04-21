@@ -6,6 +6,7 @@
 
 - 🔭 I’m a Learner at **Apple Developer Academy @ Infinite Learning, Batam Indonesia**
 - 🌝 Fun fact **I'm Protagonist (ENFJ-A) according to (www.16personalities.com)**
+  
 
 
 <h3 align="left">Technologies:</h3>
