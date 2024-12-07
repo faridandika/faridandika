@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Farid!
 👩🏻‍💻 Software Engineer (iOS) Living at Batam, Indonesia 🇮🇩 <br/>
 🎓 Studied [Computer Science](https://telkomuniversity.ac.id) at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
-🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [TIKTOK](https://www.tiktok.com/@onlyfark)<br/>
+🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
 💭 Currently learning about iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
 💭 learning about Green Digital Impact on Tech from [Inco Academy] by Linkedin & Microsoft(https://greendigitalcertificate.inco-group.co/)<br/>
 
@@ -31,6 +31,9 @@
 [![🔥 Merchandise Tier 8! Google Bangkit Academy 2023 🤩](https://ytcards.demolab.com/?id=fDK6vvxqgt4&title=🔥+Merchandise+Tier+8!+Google+Bangkit+Academy+2023+🤩&lang=en&timestamp=1714972800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303 "🔥 Merchandise Tier 8! Google Bangkit Academy 2023 🤩")](https://youtu.be/fDK6vvxqgt4?si=1AhwiUIamfs6clV3)
 
 [![Study Group Kotlin Android at Google Bangkit Academy 2023 MD-42](https://ytcards.demolab.com/?id=Ijl4yD1CJRg&title=Study+Group+Kotlin+Android+at+Google+Bangkit+Academy+2023+MD-42&lang=en&timestamp=1697712000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5158 "Study Group Kotlin Android at Google Bangkit Academy 2023 MD-42")](https://youtu.be/Ijl4yD1CJRg?si=1AhwiUIamfs6clV3)
+
+[![Day 81 of my English practice journey](https://p16-tiktok.byteimg.com/tos-maliva-avt-0068/9e519fe015533adbdca6d197cbccf4be~c5_300x300.webp)](https://www.tiktok.com/@onlyfark/video/7441395247839481144)
+
 
 
 <!-- END YOUTUBE-CARDS
