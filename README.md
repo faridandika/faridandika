@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Farid!
 👩🏻‍💻 Software Engineer (iOS) Living at Batam, Indonesia 🇮🇩 <br/>
-🎓 Studied [Computer Science](https://telkomuniversity.ac.id) at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
+🎓 Studied Computer Science at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
 💭 Currently learning about iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
-💭 learning about Green Digital Impact on Tech from [Inco Academy] by Linkedin & Microsoft(https://greendigitalcertificate.inco-group.co/)<br/>
+💭 Learning about Green Digital Impact from [Inco Academy] by Linkedin & Microsoft(https://greendigitalcertificate.inco-group.co/)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=faridandika&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -31,16 +31,3 @@
 [![🔥 Merchandise Tier 8! Google Bangkit Academy 2023 🤩](https://ytcards.demolab.com/?id=fDK6vvxqgt4&title=🔥+Merchandise+Tier+8!+Google+Bangkit+Academy+2023+🤩&lang=en&timestamp=1714972800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303 "🔥 Merchandise Tier 8! Google Bangkit Academy 2023 🤩")](https://youtu.be/fDK6vvxqgt4?si=1AhwiUIamfs6clV3)
 
 [![Study Group Kotlin Android at Google Bangkit Academy 2023 MD-42](https://ytcards.demolab.com/?id=Ijl4yD1CJRg&title=Study+Group+Kotlin+Android+at+Google+Bangkit+Academy+2023+MD-42&lang=en&timestamp=1697712000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5158 "Study Group Kotlin Android at Google Bangkit Academy 2023 MD-42")](https://youtu.be/Ijl4yD1CJRg?si=1AhwiUIamfs6clV3)
-
-[![Day 81 of my English practice journey](https://p16-tiktok.byteimg.com/tos-maliva-avt-0068/9e519fe015533adbdca6d197cbccf4be~c5_300x300.webp)](https://www.tiktok.com/@onlyfark/video/7441395247839481144)
-
-
-
-<!-- END YOUTUBE-CARDS
-
-[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
-[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
-[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
-[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
- -->
-
