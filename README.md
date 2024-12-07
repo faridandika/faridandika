@@ -5,7 +5,7 @@
 🎓 Studied [Computer Science](https://telkomuniversity.ac.id) at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [TIKTOK](https://www.tiktok.com/@onlyfark)<br/>
 💭 Currently learning about iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
-💭 learning about Green Digital Impact on Tech from [Inco Academy by Linkedin & Microsoft](https://greendigitalcertificate.inco-group.co/)<br/>
+💭 learning about Green Digital Impact on Tech from [Inco Academy] by Linkedin & Microsoft(https://greendigitalcertificate.inco-group.co/)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=faridandika&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -16,6 +16,8 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -26,13 +28,9 @@
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
 
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>" -->
-
 [![🔥 Merchandise Tier 8! Google Bangkit Academy 2023 🤩](https://ytcards.demolab.com/?id=fDK6vvxqgt4&title=🔥+Merchandise+Tier+8!+Google+Bangkit+Academy+2023+🤩&lang=en&timestamp=1714972800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303 "🔥 Merchandise Tier 8! Google Bangkit Academy 2023 🤩")](https://youtu.be/fDK6vvxqgt4?si=1AhwiUIamfs6clV3)
 
-<!--
-[![🔥Merchandise Tier 8! Google Bangkit Academy 2023 🤩](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
-
+[![Study Group Kotlin Android at Google Bangkit Academy 2023 MD-42](https://ytcards.demolab.com/?id=Ijl4yD1CJRg&title=Study+Group+Kotlin+Android+at+Google+Bangkit+Academy+2023+MD-42&lang=en&timestamp=1697712000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5158 "Study Group Kotlin Android at Google Bangkit Academy 2023 MD-42")](https://youtu.be/Ijl4yD1CJRg?si=1AhwiUIamfs6clV3)
 
 
 <!-- END YOUTUBE-CARDS
