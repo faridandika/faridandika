@@ -5,7 +5,7 @@
 🎓 Studied Computer Science at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
 💭 Currently learning about iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
-💭 Learning about Green Digital Impact from [Inco Academy] by Linkedin & Microsoft(https://greendigitalcertificate.inco-group.co/)<br/>
+💭 Learning about Green Digital Impact from [Inco Academy](https://greendigitalcertificate.inco-group.co/) by Linkedin & Microsoft<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=faridandika&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
