@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Farid!
 👩🏻‍💻 Software Engineer (iOS) Living at Batam, Indonesia 🇮🇩 <br/>
-🎓 Studied [Computer Science](https://telkomuniversity.ac.id)) at the STMIK Profesional and Telkom University of Bandung, Indonesia<br/>
+🎓 Studied [Computer Science](https://telkomuniversity.ac.id) at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [TIKTOK](https://www.tiktok.com/@onlyfark)<br/>
 💭 Currently learning about iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
 💭 [Green Digital Skill](https://greendigitalcertificate.inco-group.co/)<br/>
