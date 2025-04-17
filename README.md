@@ -1,10 +1,10 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Farid!
-👩🏻‍💻 Software Engineer (iOS) Living at Batam, Indonesia 🇮🇩 <br/>
+👩🏻‍💻 Software Engineer (iOS) @ [AO Plus Asia Pte Ltd](https://aoplus.asia/) Living at Batam, Indonesia 🇮🇩 <br/>
 🎓 Studied Computer Science at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
+💭 Studied Apple CBL Framework and iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
-💭 Currently learning about iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
 💭 Learning about Green Digital Impact from [Inco Academy](https://greendigitalcertificate.inco-group.co/) by Linkedin & Microsoft<br/>
 📌 More about my projects [https://faridandika.github.io/](https://faridandika.github.io/)
 
