@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Farid!
-👩🏻‍💻 Software Engineer @ [OneByOne](https://www.onebyone.io/) Living at Bali, Indonesia 🇮🇩 <br/>
+👩🏻‍💻 Software Engineer @ [OneByOne](https://www.onebyone.io/) Living in Bali, Indonesia 🇮🇩 <br/>
 🎓 Studied Computer Science at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
 💭 Studied Apple CBL Framework and iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
