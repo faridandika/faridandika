@@ -1,11 +1,10 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Farid!
-👩🏻‍💻 Software Engineer (iOS) @ [AO Plus Asia Pte Ltd](https://aoplus.asia/) Living at Batam, Indonesia 🇮🇩 <br/>
+👩🏻‍💻 Software Engineer @ [OneByOne](https://www.onebyone.io/) Living at Bali, Indonesia 🇮🇩 <br/>
 🎓 Studied Computer Science at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
 💭 Studied Apple CBL Framework and iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
-💭 Learning about Green Digital Impact from [Inco Academy](https://greendigitalcertificate.inco-group.co/) by Linkedin & Microsoft<br/>
 📌 More about my projects [https://faridandika.github.io/](https://faridandika.github.io/)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
@@ -21,6 +20,9 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
