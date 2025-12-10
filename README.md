@@ -1,28 +1,64 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Farid!
+
 👩🏻‍💻 Software Engineer @ [OneByOne](https://www.onebyone.io/) Living in Bali, Indonesia 🇮🇩 <br/>
 🎓 Studied Computer Science at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
 💭 Studied Apple CBL Framework and iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
 🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
 📌 More about my projects [https://faridandika.github.io/](https://faridandika.github.io/)
 
+## 🚀 Currently Working At
+
+I'm currently working at **[OneByOne](https://www.onebyone.io/)** as a **Mobile Engineer & Front-End Developer**, where I build mobile applications using **Flutter** and web applications using **TypeScript** for the freight forwarding and supply chain industry.
+
+## 🎓 Education & Training
+
+- 🎓 **Computer Science** - [STMIK Profesional](https://stmikprofesional.ac.id/) & [Telkom University](https://telkomuniversity.ac.id), Bandung, Indonesia
+- 🍎 **Apple CBL Framework & iOS Development** - [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/)
+- 🏆 **Google Bangkit Academy 2023** - Distinction Graduate ([Bangkit Academy](https://grow.google/intl/id_id/bangkit/))
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faridandika/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridandika.career@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faridandika.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fardikha)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@onlyfark)
+
+**💬 Best way to reach me:** LinkedIn or Instagram  
+**📍 Location:** Bali, Indonesia 🇮🇩  
+**🕐 Timezone:** WITA (UTC+8)  
+**💼 Open to:** Freelance opportunities & collaborations
+
+## 📊 GitHub Stats
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=faridandika&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
+**Mobile Development**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Web Development**  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Backend & Tools**  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Design & DevOps**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Fastlane](https://img.shields.io/badge/fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
