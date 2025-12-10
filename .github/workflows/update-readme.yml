@@ -1,0 +1,63 @@
+name: Update README
+
+# Run daily at 00:00 UTC (8 AM Jakarta/Bali time)
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Update README with current date and time
+        run: |
+          # Get current date and time in Bali timezone
+          CURRENT_DATE=$(TZ='Asia/Makassar' date '+%A, %B %d, %Y')
+          CURRENT_TIME=$(TZ='Asia/Makassar' date '+%H:%M:%S %Z')
+          
+          # Random motivational quotes
+          QUOTES=(
+            "Code is like humor. When you have to explain it, it's bad. – Cory House"
+            "First, solve the problem. Then, write the code. – John Johnson"
+            "Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+            "Knowledge is power. – Francis Bacon"
+            "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. – Dan Salomon"
+            "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. – Antoine de Saint-Exupery"
+            "Code never lies, comments sometimes do. – Ron Jeffries"
+            "Make it work, make it right, make it fast. – Kent Beck"
+            "The best error message is the one that never shows up. – Thomas Fuchs"
+            "Simplicity is the soul of efficiency. – Austin Freeman"
+          )
+          
+          # Get random quote
+          RANDOM_QUOTE="${QUOTES[$RANDOM % ${#QUOTES[@]}]}"
+          
+          # Create temporary file
+          cp README.md README.md.tmp
+          
+          # Update the README
+          sed -i "s|<!-- DAILY_UPDATE:START -->.*<!-- DAILY_UPDATE:END -->|<!-- DAILY_UPDATE:START -->\n**📅 Last Updated:** ${CURRENT_DATE} at ${CURRENT_TIME}  \n**💭 Daily Inspiration:** ${RANDOM_QUOTE}\n<!-- DAILY_UPDATE:END -->|" README.md.tmp
+          
+          # Replace original README
+          mv README.md.tmp README.md
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update README - $(TZ='Asia/Makassar' date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
