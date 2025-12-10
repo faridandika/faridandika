@@ -7,13 +7,17 @@
 **💭 Daily Inspiration:** Code is like humor. When you have to explain it, it's bad. – Cory House
 <!-- DAILY_UPDATE:END -->
 
-�‍💻 Software Engineer @ [OneByOne](https://www.onebyone.io/) 🇦🇺 | Living in Bali, Indonesia 🇮🇩  
-🎓 Computer Science Graduate from [STMIK Profesional](https://stmikprofesional.ac.id/) & [Telkom University](https://telkomuniversity.ac.id), Bandung  
-🍎 Apple Developer Academy Graduate - iOS Development & CBL Framework  
-🌏 International Experience: Singapore 🇸🇬 & Australia 🇦🇺  
-🗣️ Trilingual: Buginese, English & Bahasa Indonesia  
-🎬 Content Creator on [TikTok](https://www.tiktok.com/@onlyfark) - English Practice, Fitness, Tech & Productivity  
-� Explore my projects: [faridandika.github.io](https://faridandika.github.io/)
+
+Hi �
+
+I'm **Farid Andika**, a Mobile Engineer & Front-End Developer with expertise in building mobile applications using **Flutter** and web applications using **TypeScript**. Currently working at **[OneByOne](https://www.onebyone.io/)** 🇦🇺, where I contribute to innovative solutions in the freight forwarding and supply chain industry.
+
+I'm a **Computer Science graduate** from STMIK Profesional and Telkom University, Bandung, and an **Apple Developer Academy graduate** specializing in iOS development and the Challenge-Based Learning (CBL) framework. My experience includes working with international teams across **Singapore** 🇸🇬 and **Australia** 🇦🇺, bringing a global perspective to every project.
+
+**Trilingual** communicator (Buginese, English, and Bahasa Indonesia) | Based in Bali, Indonesia 🇮🇩 | Content creator sharing insights on tech, productivity, fitness, and English learning on [TikTok](https://www.tiktok.com/@onlyfark)
+
+� **Portfolio:** [faridandika.github.io](https://faridandika.github.io/)
+
 
 
 ## 🚀 Currently Working At
