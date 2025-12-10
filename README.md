@@ -12,14 +12,9 @@ Hi 👋
 
 I'm **Farid Andika**, a Mobile Engineer & Front-End Developer with **1.5+ years of experience** specializing in building high-quality, performance-driven mobile and web applications. Proficient in **Swift, SwiftUI, UIKit, Flutter, React, and TypeScript**, with hands-on experience developing and deploying apps to the App Store and creating modern web solutions.
 
-Currently working at **[OneByOne](https://www.onebyone.io/)** 🇦🇺 (Australian Company) as a Front-End & Mobile Engineer, where I develop multiplatform applications for the freight forwarding and supply chain industry. Previously, I developed iOS apps at **AO Plus Asia** 🇸🇬 (Singapore), building 3 native iOS apps and managing end-to-end App Store publication processes.
 
-I'm a **Computer Science graduate** from STMIK Profesional and Telkom University, Bandung, and an **Apple Developer Academy graduate** specializing in iOS development and the Challenge-Based Learning (CBL) framework. Also a **Google Bangkit Academy 2023 Distinction Graduate** (Top 10% among 3,500+ cohort). Passionate about creating seamless user experiences and solving complex problems with elegant, scalable solutions.
-
-**Trilingual** communicator (Buginese, English & Bahasa Indonesia) | Based in Bali, Indonesia 🇮🇩 | Content creator sharing insights on tech, productivity, fitness & English learning on [TikTok](https://www.tiktok.com/@onlyfark)
-
-📂 **Portfolio:** [faridandika.github.io](https://faridandika.github.io/)
-
+📂 **Portfolio:** 
+[faridandika.github.io](https://faridandika.github.io/)
 
 
 ## 🚀 Currently Working At
