@@ -7,11 +7,14 @@
 **💭 Daily Inspiration:** Code is like humor. When you have to explain it, it's bad. – Cory House
 <!-- DAILY_UPDATE:END -->
 
-👩🏻‍💻 Software Engineer @ [OneByOne](https://www.onebyone.io/) Living in Bali, Indonesia 🇮🇩 <br/>
-🎓 Studied Computer Science at the [STMIK Profesional](https://stmikprofesional.ac.id/) and [Telkom University](https://telkomuniversity.ac.id) of Bandung, Indonesia<br/>
-💭 Studied Apple CBL Framework and iOS Development at [Apple Developer Academy @ Infinite Learning](https://www.developeracademy.infinitelearning.id/) and <br/>
-🎨 Making videos about Practice English, Fitness, Tech, and Productivity on [Tiktok](https://www.tiktok.com/@onlyfark)<br/>
-📌 More about my projects [https://faridandika.github.io/](https://faridandika.github.io/)
+�‍💻 Software Engineer @ [OneByOne](https://www.onebyone.io/) 🇦🇺 | Living in Bali, Indonesia 🇮🇩  
+🎓 Computer Science Graduate from [STMIK Profesional](https://stmikprofesional.ac.id/) & [Telkom University](https://telkomuniversity.ac.id), Bandung  
+🍎 Apple Developer Academy Graduate - iOS Development & CBL Framework  
+🌏 International Experience: Singapore 🇸🇬 & Australia 🇦🇺  
+🗣️ Trilingual: Buginese, English & Bahasa Indonesia  
+🎬 Content Creator on [TikTok](https://www.tiktok.com/@onlyfark) - English Practice, Fitness, Tech & Productivity  
+� Explore my projects: [faridandika.github.io](https://faridandika.github.io/)
+
 
 ## 🚀 Currently Working At
 
