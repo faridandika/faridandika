@@ -48,7 +48,12 @@ I'm currently working at **[OneByOne](https://www.onebyone.io/)** as a **Mobile 
 ## 📊 GitHub Stats
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=faridandika&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faridandika&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faridandika&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faridandika&theme=radical&hide_border=false&layout=compact&langs_count=8)
+
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
