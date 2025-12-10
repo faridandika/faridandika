@@ -8,15 +8,17 @@
 <!-- DAILY_UPDATE:END -->
 
 
-Hi �
+Hi 👋
 
-I'm **Farid Andika**, a Mobile Engineer & Front-End Developer with expertise in building mobile applications using **Flutter** and web applications using **TypeScript**. Currently working at **[OneByOne](https://www.onebyone.io/)** 🇦🇺, where I contribute to innovative solutions in the freight forwarding and supply chain industry.
+I'm **Farid Andika**, a Mobile Engineer & Front-End Developer with **1.5+ years of experience** specializing in building high-quality, performance-driven mobile and web applications. Proficient in **Swift, SwiftUI, UIKit, Flutter, React, and TypeScript**, with hands-on experience developing and deploying apps to the App Store and creating modern web solutions.
 
-I'm a **Computer Science graduate** from STMIK Profesional and Telkom University, Bandung, and an **Apple Developer Academy graduate** specializing in iOS development and the Challenge-Based Learning (CBL) framework. My experience includes working with international teams across **Singapore** 🇸🇬 and **Australia** 🇦🇺, bringing a global perspective to every project.
+Currently working at **[OneByOne](https://www.onebyone.io/)** 🇦🇺 (Australia) as a Front-End & Mobile Engineer, where I develop multiplatform applications for the freight forwarding and supply chain industry. Previously led iOS development at **AO Plus Asia** 🇸🇬 (Singapore), building 3 native iOS apps from scratch and managing end-to-end App Store publication processes.
 
-**Trilingual** communicator (Buginese, English, and Bahasa Indonesia) | Based in Bali, Indonesia 🇮🇩 | Content creator sharing insights on tech, productivity, fitness, and English learning on [TikTok](https://www.tiktok.com/@onlyfark)
+I'm a **Computer Science graduate** from STMIK Profesional and Telkom University, Bandung, and an **Apple Developer Academy graduate** specializing in iOS development and the Challenge-Based Learning (CBL) framework. Also a **Google Bangkit Academy 2023 Distinction Graduate** (Top 10% among 3,500+ cohort). Passionate about creating seamless user experiences and solving complex problems with elegant, scalable solutions.
 
-� **Portfolio:** [faridandika.github.io](https://faridandika.github.io/)
+**Trilingual** communicator (Buginese, English & Bahasa Indonesia) | Based in Bali, Indonesia 🇮🇩 | Content creator sharing insights on tech, productivity, fitness & English learning on [TikTok](https://www.tiktok.com/@onlyfark)
+
+📂 **Portfolio:** [faridandika.github.io](https://faridandika.github.io/)
 
 
 
