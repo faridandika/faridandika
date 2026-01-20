@@ -1,8 +1,8 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Farid! (Currently. Active on my Working Github Account)
+# 👋 Hi, I'm Farid! 
 
-
+(Currently. Active on my Working Github Account)
 
 I'm a Mobile Engineer & Front-End Developer with **1.5+ years of experience** specializing in building high-quality, performance-driven mobile and web applications. Proficient in **Swift, SwiftUI, UIKit, Flutter, React, and TypeScript**, with hands-on experience developing and deploying apps to the App Store and creating modern web solutions.
 
